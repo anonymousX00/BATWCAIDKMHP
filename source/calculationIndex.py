@@ -16,4 +16,4 @@ elif secmek == "3":
 elif secmek == "4":
     print(s1, "/", s2, "=",s1/s2)
 else:
-    print("Hatali secim yaptiniz. Lutfen dogru ornekte verildigi gibi dogru secim yazin.")
+    print("Boyle bir secim numarasi bulunamadi. Lutfen dogru numarayi yazin.")
